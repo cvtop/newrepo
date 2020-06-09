@@ -1,2 +1,2 @@
 # newrepo
-hank's first repository on githut for python
+hank's first repository on github for python
